@@ -1,2 +1,3 @@
-# CodeMarkup-Maui-Template
-CodeMarkup for Maui Template - A Vanilla Sample Project Using Nuget
+# CodeMarkup for Maui Template 
+
+A vanilla sample project using nuget package
