@@ -10,12 +10,12 @@ namespace CodeMarkupTemplate
             this.Resources.MergedDictionaries.Add(AppResources.Default);
 
             var flyoutItem = new FlyoutItem
-        {
-            new Tab("Main")
             {
-                new ShellContent<HelloWorldPage>("Hello Page"),
-            }
-        };
+                new Tab("Main")
+                {
+                    new ShellContent<HelloWorldPage>("Hello Page"),
+                }
+            };
 
             this.Add(flyoutItem);
         }
