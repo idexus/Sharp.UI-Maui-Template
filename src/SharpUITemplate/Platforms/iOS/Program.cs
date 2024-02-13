@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace CodeMarkupTemplate;
+namespace SharpUITemplate;
 
 public class Program
 {

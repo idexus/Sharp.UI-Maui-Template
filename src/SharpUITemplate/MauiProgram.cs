@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace CodeMarkupTemplate
+namespace SharpUITemplate
 {
-    using CodeMarkup.Maui;
+    using Sharp.UI;
 
     public static class MauiProgram
     {
@@ -10,7 +10,7 @@ namespace CodeMarkupTemplate
         {
             var builder = MauiApp.CreateBuilder();
             builder
-                .CodeMarkupApp<App>(HotReloadSupport.IdeIPs)
+                .SharpUIApp<App>(HotReloadSupport.IdeIPs)
                 .UseMauiApp<App>()            
                 .ConfigureFonts(fonts =>
                 {

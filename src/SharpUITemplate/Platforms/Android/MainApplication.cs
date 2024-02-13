@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace CodeMarkupTemplate;
+namespace SharpUITemplate;
 
 [Application]
 public class MainApplication : MauiApplication

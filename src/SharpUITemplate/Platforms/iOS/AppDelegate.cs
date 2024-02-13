@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace CodeMarkupTemplate;
+namespace SharpUITemplate;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

@@ -1,4 +1,4 @@
-﻿namespace CodeMarkupTemplate;
+﻿namespace SharpUITemplate;
 
 public static class AppColors
 {

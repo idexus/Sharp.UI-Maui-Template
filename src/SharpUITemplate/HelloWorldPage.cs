@@ -1,7 +1,7 @@
 ﻿
-namespace CodeMarkupTemplate
+namespace SharpUITemplate
 {
-    using CodeMarkup.Maui;
+    using Sharp.UI;
 
     public partial class HelloWorldPage : ContentPage
     {
@@ -17,11 +17,11 @@ namespace CodeMarkupTemplate
                 .CenterVertically())
             {
                 new Image("dotnet_bot.png", out var image)
-                    .HeightRequest(280)
+                    .HeightRequest(150)
                     .CenterHorizontally(),
 
-                new Label("Welcome to the CodeMarkup for MAUI")
-                    .FontSize(e => e.OnPhone(16).Default(30))
+                new Label("Welcome to the Sharp.UI for MAUI")
+                    .FontSize(e => e.OnPhone(16).Default(20))
                     .CenterHorizontally(),
 
                 new Button("Click me")

@@ -1,8 +1,8 @@
 ﻿<maui:MauiWinUIApplication
-    x:Class="CodeMarkupTemplate.WinUI.App"
+    x:Class="SharpUITemplate.WinUI.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:maui="using:Microsoft.Maui"
-    xmlns:local="using:CodeMarkupTemplate.WinUI">
+    xmlns:local="using:SharpUITemplate.WinUI">
 
 </maui:MauiWinUIApplication>

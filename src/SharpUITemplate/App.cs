@@ -1,7 +1,7 @@
 ﻿
-namespace CodeMarkupTemplate
+namespace SharpUITemplate
 {
-    using CodeMarkup.Maui;
+    using Sharp.UI;
 
     public partial class App : Application
     {
