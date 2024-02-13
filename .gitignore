@@ -350,6 +350,3 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-
-
-src/SharpUITemplate/Generated/HotReloadKit.Generator/HotReloadKit.Generator.Generator/SharpUITemplate.HotReloadSupport.g.cs
