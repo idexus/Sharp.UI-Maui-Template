@@ -1,3 +1,3 @@
-# Sharp.UI for Maui Template 
+# Sharp.UI Template
 
 A vanilla sample project using nuget package
