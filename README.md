@@ -8,4 +8,4 @@ A vanilla sample project using nuget package
 
 # License 
 
-[The MIT License](License.txt), Copyright (c) 2022 Pawel Krzywdzinski
+The MIT License, Copyright (c) 2022 Pawel Krzywdzinski
