@@ -11,7 +11,7 @@ namespace SharpUITemplate
 
             var tab = new Tab("Main")
             {
-                new ShellContent<HelloWorldPage>("Hello Page"),   
+                new ShellContent<HelloWorldPage>(),   
             };
 
             this.Add(tab);
